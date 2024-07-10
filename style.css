@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(33,36,40);
+}
+.landingpage{
+  display: flex;  
+}
+
+.myImage{
+    border-radius: 50%;
+    
+}
+h1{
+    color: antiquewhite;
+    font-size: 50px;
+}
+h2{
+    color: rgb(40,150,223);
+    font-size: 50px;
+}
